@@ -2,7 +2,7 @@ import 'package:badges/badges.dart' as badges;
 import 'package:example_code/e-commerce_webpage/bloc/cart_bloc/cart_bloc.dart';
 import 'package:example_code/e-commerce_webpage/bloc/product_bloc/product_bloc.dart';
 import 'package:example_code/e-commerce_webpage/model/cart_item_model.dart';
-import 'package:example_code/e-commerce_webpage/views/checkout_page.dart';
+import 'package:example_code/e-commerce_webpage/views/desktop/checkout_page.dart';
 import 'package:example_code/login/views/login_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

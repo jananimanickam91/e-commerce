@@ -1,7 +1,7 @@
 import 'package:example_code/e-commerce_webpage/bloc/cart_bloc/cart_bloc.dart';
 import 'package:example_code/e-commerce_webpage/bloc/product_bloc/product_bloc.dart';
 import 'package:example_code/e-commerce_webpage/repo/product_repository.dart';
-import 'package:example_code/e-commerce_webpage/views/product_page.dart';
+import 'package:example_code/e-commerce_webpage/views/desktop/product_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
