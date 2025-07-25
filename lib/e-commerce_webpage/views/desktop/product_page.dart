@@ -1,8 +1,8 @@
 import 'package:example_code/e-commerce_webpage/bloc/cart_bloc/cart_bloc.dart';
 import 'package:example_code/e-commerce_webpage/bloc/product_bloc/product_bloc.dart';
 import 'package:example_code/e-commerce_webpage/model/product_model.dart';
-import 'package:example_code/e-commerce_webpage/views/cart_page.dart';
-import 'package:example_code/e-commerce_webpage/views/product_details.page.dart';
+import 'package:example_code/e-commerce_webpage/views/desktop/cart_page.dart';
+import 'package:example_code/e-commerce_webpage/views/desktop/product_details.page.dart';
 import 'package:example_code/login/views/login_page.dart';
 import 'package:flutter/material.dart';
 import 'package:cached_network_image/cached_network_image.dart';
